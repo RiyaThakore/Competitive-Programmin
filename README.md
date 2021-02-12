@@ -50,4 +50,4 @@
 | 1.2 | Next larger element | [✅]
 | 1.3 | Queue using two stacks | [✅]
 | 1.4 | Get minimum element from stack | [✅]
-| 1.5 | LRU Implementation | [✅]
+| 1.5 | Add two elements from stack | [✅]
