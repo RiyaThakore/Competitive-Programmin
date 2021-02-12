@@ -29,7 +29,25 @@
 | 1.6 | Anagram | [✅]
 | 1.7 | Remove Duplicates | [✅]
 | 1.8 | Form a Palindrome | [✅]
-| 1.9 | Longest Distinct Characters in the string | [❌]
-| 1.10 | Implement Atoi | [❌]
-| 1.11 | Implement strstr | [❌]
-| 1.12 | Longest Common Prefix | [❌]
+| 1.9 | Longest Distinct Characters in the string | [✅]
+| 1.10 | Longest Common Prefix | [✅]
+
+## Linked List
+|Problem Number | Problem Name | Status|
+|--- | --- | --- |
+| 1.1 | Finding middle of linked list | [✅]
+| 1.2 | Rotate a linked list | [✅]
+| 1.3 | Reverse a linked list | [✅]
+| 1.4 | Merge two linked lists | [✅]
+| 1.5 | Add two numbers in a linked list | [✅]
+| 1.6 | Queue in linked list | [✅]
+| 1.7 | Stack in linked list | [✅]
+
+## Stack and Queue
+|Problem Number | Problem Name | Status|
+|--- | --- | --- |
+| 1.1 | Parenthesis Checker | [✅]
+| 1.2 | Next larger element | [✅]
+| 1.3 | Queue using two stacks | [✅]
+| 1.4 | Get minimum element from stack | [✅]
+| 1.5 | LRU Implementation | [✅]
